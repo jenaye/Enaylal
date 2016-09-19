@@ -1,5 +1,6 @@
 {
     "name": "jenaye/enaylal",
+    "version":"1.0.0",
     "description": "Nano framework php",
     "type": "project",
     "license": "MIT",
