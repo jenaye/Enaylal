@@ -1,0 +1,24 @@
+{
+    "name": "jenaye/enaylal",
+    "description": "Nano framework php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jenaye",
+            "email": "Stahlilistenvoid@gmail.com",
+            "homepage": "http://jenaye.dev",
+            "role": "Developper"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Enaylal\\": "src/"
+        }
+    },
+    "require": {
+        "duncan3dc/blade": "^3.3"
+    }
+}
