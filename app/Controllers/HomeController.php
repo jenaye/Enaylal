@@ -18,17 +18,6 @@ class HomeController extends Controller
     {
         return $this->getView('/home/index');
     }
-
-    /**
-     * Index de la page d'accueil
-     * @param $name
-     * @return string
-     */
-    public function user($name)
-    {
-        return $this->getView('home/user', [
-            'username' => 'Mr. '.$name
-        ]);
-    }
+    
 
 }

@@ -60,9 +60,6 @@ class Router
         $this->group->remove();
     }
 
-
-
-
     /**
      * @param string $method
      * @param string $path
@@ -74,7 +71,6 @@ class Router
         $path = Route::trimUrl($path);
         $prefix = Route::trimUrl($this->group->getPrefix());
         $path = Route::trimUrl($prefix.'/'.$path);
-        var_dump($path);
         $route = new Route($path, $call);
         $this->routes[$method][] = $route;
         return $route;
