@@ -41,6 +41,7 @@ class Route
      * @param $call
      */
     public function __construct($url, $call)
+
     {
         $this->setUrl($url);
         $this->call = $call;
@@ -51,11 +52,37 @@ class Route
         }
     }
 
+    /**
+     * @return callable|string
+     */
+    public function getCall()
+    {
+        return $this->call;
+    }
+
+    /**
+     * @param callable|string $call
+     */
+    public function setCall($call)
+    {
+        $this->call = $call;
+    }
+
     public function setUrl($url)
     {
         $this->url = self::trimUrl($url);
         return $this;
     }
+    public function getUrl()
+    {
+        return $this->url;
+    }
+
+    public function getName()
+    {
+        return $this->name;
+    }
+
 
     public function setName($name)
     {

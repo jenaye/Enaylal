@@ -20,6 +20,7 @@
         }
     },
     "require": {
-        "duncan3dc/blade": "^3.3"
+        "duncan3dc/blade": "^3.3",
+        "symfony/console": "^3.1"
     }
 }

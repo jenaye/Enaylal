@@ -76,4 +76,8 @@ class Router
         return $route;
     }
 
+    public function getRoute(){
+        return $this->routes;
+    }
+
 }
