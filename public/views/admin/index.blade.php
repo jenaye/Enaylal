@@ -7,7 +7,7 @@
     </h1>
     <ol class="breadcrumb">
       <li><a href="/">Administration</a></li>
-      <li class="active"><a href="#">je_suis_un_exemple</a></li>
+      <li class="active"><a href="#">Page D'accueil</a></li>
     </ol>
   </section>
 

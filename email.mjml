@@ -1,0 +1,63 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#bedae6" font-size="13px">
+
+
+      </mj-section>
+      <mj-section background-color="#ffffff" hidden="false" vertical-align="middle" name="Section-A" image-id="19872" background-url="http://edu.stemjobs.com/wp-content/uploads/2015/05/coding.jpg" background-size="cover" padding-bottom="0" padding-top="0">
+        <mj-column vertical-align="middle" width="100%">
+          <mj-image src="https://sicestpasmalheureux.files.wordpress.com/2015/12/coding-future.jpg" alt="" align="center" border="none" vertical-align="middle" width="210" padding-left="25" padding-right="25" padding-bottom="60" padding-top="60">
+
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" hidden="false" name="Nouvelle section" padding-bottom="20" padding-top="10">
+        <mj-column vertical-align="top" width="100%">
+          <mj-text align="center" color="#000000" font-size="13" word-wrap="break-word" font-family="Ubuntu, Helvetica, Arial, sans-serif" vertical-align="top" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <span style="display: block; font-size: 28px; font-weight: bold;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><strong><span style="font-size: 20px;"><span style="color: rgb(81, 45, 11);">Hey bidule!</span></span>
+            </strong>
+            </span>
+            </span>
+          </mj-text>
+          <mj-text align="center" color="#000000" font-size="13" word-wrap="break-word" font-family="Ubuntu, Helvetica, Arial, sans-serif" vertical-align="top" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <p></p>
+            <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><span style="font-size: 18px;">Tu veux faire ton propre site?</span></span>
+            </p>
+            <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><span style="font-size: 18px;">Tu as clique à la bonne page </span></span>
+            </p>
+            <p></p>
+          </mj-text>
+          <mj-image src="http://www.preoccupiedterritory.com/wp-content/uploads/2014/03/red-line.jpg" alt="" align="center" border="none" width="271" vertical-align="top" padding-left="0" padding-right="0" padding-bottom="10" padding-top="10">
+
+          </mj-image>
+          <mj-text align="center" color="#000000" font-size="13px" word-wrap="break-word" font-family="Ubuntu, Helvetica, Arial, sans-serif" vertical-align="top" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <p><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"><strong><span style="color: red;"><span style="font-size: 25px;">On va coder !</span></span>
+              </strong>
+              </span>
+            </p>
+
+          </mj-text>
+          <mj-button background-color="#FF5815" color="#FFFFFF" font-size="13px" align="center" vertical-align="top" border="none" padding="15px 30px" border-radius="0px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-left="25"
+            padding-right="25" padding-bottom="10" padding-top="10">
+            <strong>Inscris toi !</strong>
+          </mj-button>
+          <mj-image src="http://www.preoccupiedterritory.com/wp-content/uploads/2014/03/red-line.jpg" alt="" align="center" border="none" width="251" vertical-align="top" padding-left="0" padding-right="0" padding-bottom="10" padding-top="10">
+
+          </mj-image>
+          <mj-text align="center" color="#000000" font-size="13px" word-wrap="break-word" font-family="Ubuntu, Helvetica, Arial, sans-serif" vertical-align="top" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <p></p>
+            <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"></span></p>
+            <span
+              style="font-size:14.666666666666666px;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">The Jenaye Company</span>
+              <p></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>

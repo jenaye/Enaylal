@@ -43,5 +43,10 @@ server {
 }
 
 }
+
+```
+
+```
+https://github.com/usmanhalalit/pixie#query
 ```
 

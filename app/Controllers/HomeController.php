@@ -16,6 +16,10 @@ class HomeController extends Controller
      */
     public function index()
     {
+        /*
+         * getview cherche un "dossier/fichier" dans /public/views/
+         * par default il ajoute l'extension blade.php au fichier
+         */
         return $this->getView('/home/index');
     }
     

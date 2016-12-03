@@ -51,7 +51,7 @@ body {
        <i style="width: 10px;display:inline-block"></i>throw
     </span>
     <span>
-      (<span style="color: #a6a61f">'Homepage framework version 1.2'</span>);
+      (<span style="color: #a6a61f">'Homepage framework version 1.3'</span>);
     </span>
 	  <span style="display:block">}</span>
   </span>

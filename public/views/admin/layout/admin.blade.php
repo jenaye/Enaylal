@@ -92,18 +92,18 @@
                 <li class="treeview">
                     <a href="#">
                         <i class="fa fa-book"></i>
-                        <span>Link 1</span>
+                        <span>Article solo</span>
                     </a>
 
                     <ul class="treeview-menu">
-                        <li><a href="#">exemple 1</a></li>
-                        <li><a href="#">exemple 2</a></li>
+                        <li><a href="/admin/articles/1">Article 1</a></li>
+                        <li><a href="/admin/articles/2">Article 2</a></li>
                     </ul>
                 </li>
                 <li class="treeview">
-                    <a href="#">
+                    <a href="/admin/all">
                         <i class="fa fa-book"></i>
-                        <span>Link 2</span>
+                        <span>Tous les articles</span>
                     </a>
                 </li>
 

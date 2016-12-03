@@ -1,6 +1,6 @@
 {
     "name": "jenaye/enaylal",
-    "version":"1.2.0",
+    "version":"1.3.0",
     "description": "Nano framework php",
     "type": "project",
     "license": "MIT",
@@ -8,7 +8,7 @@
         {
             "name": "Jenaye",
             "email": "Stahlilistenvoid@gmail.com",
-            "homepage": "http://jenaye.dev",
+            "homepage": "http://jenaye.fr",
             "role": "Developper"
         }
     ],
@@ -21,6 +21,9 @@
     },
     "require": {
         "duncan3dc/blade": "^3.3",
-        "symfony/console": "^3.1"
+        "symfony/console": "^3.1",
+        "usmanhalalit/pixie": "^2.0",
+        "phpmailer/phpmailer": "^5.2",
+        "symfony/var-dumper": "^3.2"
     }
 }
